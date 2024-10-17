@@ -12,6 +12,7 @@
     "express": "^4.21.1",
     "jade": "^1.11.0",
     "morgan": "^1.10.0",
-    "serve-favicon": "^2.5.0"
+    "serve-favicon": "^2.5.0",
+    "uglify-js": "^3.19.3"
   }
 }
